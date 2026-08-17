@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔮 MindReader
+# 🔮 MindPoet
 
 **A tiny web app that reads your mind — or at least pretends to.**
 
@@ -12,7 +12,7 @@
 
 ## What is this?
 
-MindReader is a classic math-trick toy: think of a number, follow a few
+MindPoet is a classic math-trick toy: think of a number, follow a few
 steps, and the app "guesses" your result. Every time. It's not magic —
 just arithmetic dressed up in a nice UI.
 
@@ -27,8 +27,8 @@ just arithmetic dressed up in a nice UI.
 No build step, no dependencies — it's plain HTML/CSS/JS:
 
 ```bash
-git clone https://github.com/runtimepoet/MindReader.git
-cd MindReader
+git clone https://github.com/runtimepoet/MindPoet.git
+cd MindPoet
 # open index.html in your browser, or serve it:
 python -m http.server 8000
 ```
